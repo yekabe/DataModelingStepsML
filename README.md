@@ -1,1 +1,5 @@
-# santander_cs
+# Playground for Data Modeling: All Steps A Data Scientist Should Know and Apply
+Goal is to apply data analyses tools from scratch. When wanting to model the data on any inquiries, it is crucial to explore it from holistic and comprehensive approaches using statistical perspectives to build better and, thus, best models in data science. Here, we apply data scienc tools in a workshop type of exploratory format including the practices of imputation method, multivariate visualization, clustering and predictive analytics along with powerful basics and data science packs such as Seaborn, Plotly, Scikit-learn. Model improvement methods, transformations and use of plenty of methods are addressed here. Designing search grid and pipeline, writing a python function as to use in different data contexts are some of the practices as well. This doc is crucial when touching the data first time. The categories in our practices are in the Table of Contents, and will develop as we progress. There will be related files in an unorganized way until we achieve our goal. Then, all files will be organized and shared (in the form of notebooks for each topic) with the DS communities here.
+
+Data Science Group, Rochester, March 2020
+
